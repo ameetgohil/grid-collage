@@ -9,3 +9,5 @@ python collage.py --file ./c1.json --gridbuf 10 --size 2048 --grid 4
  - --gridbuf space between pictures
  - --size output picture size
  - --grid image grid
+
+![Output Collage](output.png)
